@@ -1,0 +1,15 @@
+{
+  "name": "webgl-lines-sphere",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build --outDir ../../dist/webgl-lines-sphere --base /webgl-lines-sphere/",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
