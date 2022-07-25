@@ -25,6 +25,8 @@
   },
   "workspaces": [
     "examples/webgl-lines-sphere",
-    "examples/webgl-lights-physical"
+    "examples/webgl-lights-physical",
+    "examples/webgl-loader-bvh",
+    "examples/webgl-loader-collada-skinning"
   ]
 }

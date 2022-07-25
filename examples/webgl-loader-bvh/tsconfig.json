@@ -1,0 +1,7 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "../../dist/webgl-lines-sphere"
+  },
+  "include": ["src"]
+}

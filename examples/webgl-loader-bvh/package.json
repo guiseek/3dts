@@ -1,5 +1,5 @@
 {
-  "name": "webgl-lines-sphere",
+  "name": "webgl-loader-bvh",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
